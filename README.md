@@ -17,13 +17,13 @@
 ## Google Colab
 1. Make sure you’re signed into your school email on your browser.
 2. Click on the project (or the demo) you want to work on in github.
-3. You’d see "open in google colab" on the top part of the page (Make sure you sign into your school email address.)
+3. You will see "open in google colab" on the top part of the page (Make sure you sign into your school email address.)
 4. After you have successfully opened the project in Google colab, click on settings on the top right corner of the page.
 5. In settings, Click on github tab
 6. Check “access private repositories and organizations”
 7. Click on save afterwards.
-8. You can find python code in the demo file to complete the project.
-9. After typing your code, you can click on the “run” icon to execute the code.
+8. You can find the python code in the demo file to complete the project.
+9. After typing the code, you can click on the “run” icon to execute the code.
 10. To save your work when you are done, click on File, you’d see “save a copy in Github”. That’s where you should save your work.
 11. To submit your project, make sure to follow step 7 to save your file in Github.
 12. The TA will be able to view and grade your file in github
