@@ -1,8 +1,9 @@
 # ISEN370 Engineering Statistics Project 1
+#Fall 2022
 ## Instructions:
 1. This project is designed to introduce you to data science and basics tools that you can use to solve engineering statistics related problems (Descriptive statistics and visualizations).
-2. This is an individual assignment.
-3. You will use Github classroom and Google Colab (using Python) to complete the project.
+2. This is a group assignment. A team consisting no more than 4 students will collaborate on the project.
+3. As a team, you will use Github classroom and Google Colab (using Python) to complete the project.
 4. Introduction to data science, google Colab and python will be provided on the blackboard.
 5. The following are the instructions to use GitHub classroom and google Colab.
 
@@ -11,7 +12,8 @@
 2. Make sure you have received the invitation to join the classroom in github email via your school email address.
 3. Click on the invitation link to join the classroom.
 4. Confirm your email address on github after you’ve clicked on the link to join the classroom.
-5. A repository will be created for you.
+5. If you are the first student to accept the assignment, you will need to create a team. If you are not the first, you have an option to join an existing team or create a new team. More detailed instructions can be found on the blackboard.
+5. A repository will be created for your team.
 6. In the repository, you will find a demo file and a project assignment file for Project 1. You can use the demo file to familiarize yourself with using Colab to solve a statistics problem.
 
 ## Google Colab
