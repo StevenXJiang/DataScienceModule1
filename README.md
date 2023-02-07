@@ -1,8 +1,8 @@
 # ISEN370 Engineering Statistics Project 1
-# Fall 2022
+# Spring 2023
 ## Instructions:
 1. This project is designed to introduce you to data science and basics tools that you can use to solve engineering statistics related problems (Descriptive statistics and visualizations).
-2. This is a group assignment. A team consisting no more than 4 students will collaborate on the project.
+2. This is a group assignment. A team consisting no more than 3 students will collaborate on the project.
 3. As a team, you will use Github classroom and Google Colab (using Python) to complete the project.
 4. Introduction to data science, google Colab and python will be provided on the blackboard.
 5. The following are the instructions to use GitHub classroom and google Colab.
